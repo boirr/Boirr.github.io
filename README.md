@@ -1,4 +1,3 @@
-# Welcome to the oldest DAO in the world:
 # The 1960 Indus Water Treaty DAO
 
 The folders contain original text of the water treaty signed between Goverment of Pakistan and Goverment of India. The original treaty contains 12 Articles and 8 Annexures. 
