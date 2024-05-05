@@ -43,13 +43,13 @@ Annexure E Storage of Waters by India on the western rivers
 
 Appendix to Annexure E
 
-Annexure E Neutral Expert
+Annexure F Neutral Expert 
 (Article IX(2))
 
 Annexure G Court of Arbitration
 
-Appendix to Annexure G
-(Paragraph (7)(b))
+Appendix to Annexure G 
+(Paragraph (7)(b)) 
 List 1/List2/List 3
 
 Annexure H - Transitional Arrangements
